@@ -7,4 +7,8 @@ public class Calculo {
 
 	}
 
+		public static float JuroSimples(float capital, float taxa, float periodo) {
+				return capital * taxa * periodo;
+	}
+
 }
