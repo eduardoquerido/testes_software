@@ -7,8 +7,12 @@ public class Calculo {
 
 	}
 
-		public static float JuroSimples(float capital, float taxa, float periodo) {
-				return capital * taxa * periodo;
-	}
+	public static float JuroSimples(float capital, float taxa, float periodo) {
+		if (capital == 0f || taxa == 0f || periodo == 0f) {
+			return 0f;
+		}else {
+			return capital * taxa * periodo;
+		}
+   }
 
 }
