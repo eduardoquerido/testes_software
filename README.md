@@ -10,3 +10,5 @@
 	
 [Projeto 1 - TDD - Cálculo de Juros Simples](https://github.com/eduardoquerido/testes_software/tree/master/entrega_introducao)
 
+[Projeto 2 - TDD com testes de partições - Cálculo de Juros Simples](https://github.com/eduardoquerido/testes_software/tree/master/entregas_testes_funcionais)
+
